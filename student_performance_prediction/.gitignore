@@ -1,0 +1,7 @@
+*src/__pycache__/
+*models/
+*app/__pycache__/
+*data/
+*__pycache__/
+*outputs/
+requirements.txt
